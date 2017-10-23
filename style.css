@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+#box{
+  width: 100%;
+
+}
+.col-md-1{
+  border: 1px solid blue;
+  background: darkgreen;
+}
+.col-md-6{
+  border: 1px solid gold;
+  background: darkmagenta;
+}
+.col-md-4{
+  border: 1px solid darkolivegreen;
+  background: darkcyan;
+}
+.col-md-8{
+  border: 1px solid #00B7FF;
+  background:fuchsia;
+}
